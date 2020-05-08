@@ -1,0 +1,577 @@
+City,Country,Lat,Lng,Temperature (F),Humidity,Cloudiness,Wind Speed,Hemisphere
+Fedorovskoye,RU,58.82,42.54,51.15,96,50,3.76,Northern
+Willofs,DE,47.88,10.43,44.55,81,26,3.36,Northern
+Nola,IT,40.92,14.53,55.96,50,0,5.3,Northern
+Świątniki Górne,PL,49.93,19.95,40.87,93,31,3.36,Northern
+Corella,PH,9.69,123.92,82.4,83,20,2.24,Northern
+Piadena,IT,45.13,10.37,58.66,64,51,3.38,Northern
+Tence,FR,45.12,4.29,60.01,62,94,5.82,Northern
+Palladuc,FR,45.9,3.63,60.8,77,89,3.36,Northern
+Lawitz,DE,52.11,14.64,45.5,71,35,1.99,Northern
+Sambilawang,ID,-6.66,111.1,78.08,86,57,4.56,Southern
+Sistan and Baluchestan,IR,28.5,60.5,71.33,28,8,1.19,Northern
+Oslo County,NO,59.91,10.73,45.41,66,86,1.01,Northern
+Hughes,US,35.07,-96.27,74.01,53,90,10.29,Northern
+Porangaba,BR,-23.16,-48.14,56.62,83,45,10.92,Southern
+Merkel,US,32.47,-100.01,84.67,40,1,27.51,Northern
+Sigulda,LV,57.15,24.86,35.47,93,1,4.54,Northern
+Departamento de Usulután,SV,13.43,-88.53,87.8,74,40,3.36,Northern
+Torre de Don Miguel,ES,40.22,-6.58,59.9,84,77,2.08,Northern
+Alsip,US,41.67,-87.74,54.32,40,75,14.99,Northern
+Saint-Vincent-de-Paul,FR,43.74,-1.01,68.18,73,86,1.99,Northern
+Parrsboro,CA,45.4,-64.33,39.99,66,92,1.99,Northern
+Watertown,US,42.37,-71.18,61.86,17,20,9.17,Northern
+Yinxingshu,CN,33.8,106.04,54.43,71,100,4.43,Northern
+Santa Pau,ES,42.15,2.57,57.88,93,100,1.99,Northern
+La Chapelle-de-Guinchay,FR,46.21,4.76,57.22,72,93,1.23,Northern
+Zhenkou,CN,27.4,116.34,77.22,87,3,6.82,Northern
+Letea Veche,RO,46.55,26.95,48.49,61,41,14.99,Northern
+Jaykaynagar,IN,23.68,86.98,81.97,74,0,8.12,Northern
+Chaiyaphum,TH,15.75,102.0,83.05,77,100,5.86,Northern
+Saint-Georges-de-Montclard,FR,44.95,0.6,64.36,63,100,5.82,Northern
+Xiangjiangcun,CN,25.53,115.75,77.36,86,6,6.38,Northern
+Mae Tha,TH,18.46,99.14,79.45,83,20,4.7,Northern
+Jinzipai,CN,29.85,117.81,77.0,97,40,3.24,Northern
+Bolondrón,CU,22.76,-81.45,80.6,51,40,13.87,Northern
+Uberaba,BR,-19.75,-47.93,61.81,95,100,7.81,Southern
+Garajati,ID,-7.05,108.64,75.45,88,99,4.83,Southern
+Brighton,AU,-27.3,153.06,68.56,77,40,6.93,Southern
+Mazaye,FR,45.79,2.86,60.8,77,100,3.36,Northern
+North Braddock,US,40.4,-79.84,59.68,38,90,14.99,Northern
+El Jamo,DO,19.63,-69.91,87.8,70,20,4.7,Northern
+Schlitters,AT,47.37,11.83,44.17,71,13,2.24,Northern
+Arnolds Park,US,43.37,-95.12,53.37,71,90,13.87,Northern
+Zhangjiachang,CN,40.08,112.83,56.86,74,100,3.58,Northern
+Saint-Cyr-sur-Loire,FR,47.4,0.67,55.4,71,96,6.93,Northern
+Vylkove,UA,45.4,29.59,49.05,76,22,16.17,Northern
+Belarus,BY,53.0,28.0,38.55,74,0,8.03,Northern
+LaGrange County,US,41.64,-85.42,59.61,21,1,9.17,Northern
+Căldăraru,RO,44.41,26.26,51.21,87,81,3.36,Northern
+Halls Creek,AU,-18.27,127.77,72.25,31,13,5.95,Southern
+Checun,CN,33.8,112.12,59.77,88,100,4.05,Northern
+Steinbächle,DE,48.32,7.95,53.15,62,96,2.24,Northern
+Ilz,AT,47.09,15.93,52.97,42,0,2.01,Northern
+Gebze,TR,40.8,29.43,49.96,87,0,2.82,Northern
+Vigía del Fuerte,CO,6.59,-76.9,80.2,92,96,2.24,Northern
+Mission,CA,49.13,-122.31,67.91,37,20,10.29,Northern
+Pattukkottai,IN,10.43,79.32,83.97,77,34,8.32,Northern
+White Cloud,US,43.55,-85.77,52.83,32,1,9.17,Northern
+Ventosa de la Cuesta,ES,41.41,-4.83,62.98,77,79,5.82,Northern
+Benacazón,ES,37.34,-6.21,69.39,56,0,4.7,Northern
+Barzun,FR,43.22,-0.13,65.98,77,100,5.82,Northern
+Wakīl Rustam Kêlay,AF,31.45,65.29,71.6,26,1,3.36,Northern
+Long Sault,CA,45.03,-74.88,45.66,57,90,17.22,Northern
+Sotto il Monte Giovanni XXIII,IT,45.71,9.5,55.94,67,83,5.82,Northern
+Runa,PT,39.07,-9.21,61.38,83,94,1.01,Northern
+San Bartolomé,ES,29.0,-13.61,68.0,72,20,10.29,Northern
+Rottach-Egern,DE,47.7,11.77,43.66,84,14,5.06,Northern
+Hollenbek,DE,53.58,10.82,42.96,55,97,3.56,Northern
+Hunding,DE,48.84,13.18,46.56,100,6,2.51,Northern
+Rancho Cuyuni,VE,6.74,-61.62,78.6,76,83,3.85,Northern
+Saint-Pierre-de-Mons,FR,44.55,-0.22,66.33,67,91,1.01,Northern
+Niederwiesa,DE,50.87,13.02,40.24,84,53,5.14,Northern
+Nogal de las Huertas,ES,42.39,-4.64,61.0,81,72,1.99,Northern
+Yuquan,CN,26.61,101.6,65.48,45,23,1.12,Northern
+Riau,ID,0.5,101.75,75.29,97,100,0.38,Northern
+Mirów,PL,50.61,19.47,41.95,93,0,4.7,Northern
+Hofstätten an der Raab,AT,47.08,15.75,53.08,42,0,1.99,Northern
+Malchin,DE,53.73,12.78,44.2,87,75,1.12,Northern
+Pirkkala,FI,61.46,23.63,37.2,69,0,3.36,Northern
+Medford,US,42.33,-122.88,81.43,18,1,5.82,Northern
+Gemeente Drimmelen,NL,51.67,4.78,55.27,73,99,1.99,Northern
+Vazeilles-près-Saugues,FR,44.9,3.59,47.48,73,100,4.9,Northern
+Shishkino,RU,55.27,37.76,46.89,70,19,6.71,Northern
+Modbury,AU,-34.83,138.68,55.69,93,75,10.29,Southern
+Saint-Priest-des-Champs,FR,45.99,2.76,55.13,77,99,3.36,Northern
+Mendenhall Springs,US,37.59,-121.65,88.81,10,1,4.7,Northern
+Fábiánsebestyén,HU,46.67,20.45,48.45,63,0,6.17,Northern
+Daviess,US,37.7,-87.12,66.45,42,75,11.41,Northern
+Plouigneau,FR,48.57,-3.7,56.41,76,95,5.82,Northern
+Spantekow,DE,53.78,13.53,44.01,73,62,5.75,Northern
+Capiatá,PY,-25.35,-57.44,60.8,48,0,4.7,Southern
+Jedenspeigen,AT,48.5,16.87,43.95,81,0,2.28,Northern
+Saint-Geniès-de-Comolas,FR,44.07,4.73,58.71,77,76,1.61,Northern
+Dillingen,LU,49.85,6.32,48.94,82,100,3.31,Northern
+Bornich,DE,50.13,7.77,52.3,62,100,0.38,Northern
+Santibáñez del Val,ES,41.98,-3.48,63.32,59,83,10.29,Northern
+Barun,RU,47.56,45.81,57.99,96,100,9.28,Northern
+Caprese Michelangelo,IT,43.64,11.98,49.08,71,0,1.99,Northern
+Jobbágyi,HU,47.83,19.68,46.74,61,6,2.24,Northern
+Peach Springs,US,35.53,-113.43,89.02,6,1,6.93,Northern
+Leichhardt,AU,-33.88,151.15,67.17,60,0,13.0,Southern
+Otlja,MK,42.14,21.59,41.0,86,24,4.54,Northern
+Appen,DE,53.65,9.73,41.7,87,82,2.24,Northern
+Nebe,ID,-8.47,122.56,79.86,80,5,5.59,Southern
+Tolox,ES,36.68,-4.94,63.39,77,0,4.7,Northern
+Davydovo,RU,55.61,38.86,50.58,76,47,6.71,Northern
+Vern-sur-Seiche,FR,48.05,-1.6,52.72,82,95,1.12,Northern
+Saint-Martin-de-Beauville,FR,44.23,0.83,65.44,68,100,4.7,Northern
+Wanmao,CN,34.8,103.2,35.6,91,100,2.64,Northern
+Shinnston,US,39.4,-80.3,63.12,23,75,13.87,Northern
+Poppendorf,DE,54.13,12.28,44.6,87,75,1.12,Northern
+Elamanchili,IN,17.55,82.87,82.4,88,20,3.36,Northern
+Castelluccio dei Sauri,IT,41.31,15.48,51.8,81,5,9.17,Northern
+Casma,CL,-41.01,-73.12,57.2,87,100,1.52,Southern
+Pelplin,PL,53.93,18.7,39.47,100,0,4.94,Northern
+Hontanas,ES,42.31,-4.05,61.84,59,68,10.29,Northern
+Plainview,US,40.78,-73.47,57.0,38,1,18.34,Northern
+Gorka,RU,56.27,38.82,47.77,88,79,7.34,Northern
+Bilad,PH,15.73,120.44,82.4,83,75,2.24,Northern
+Kotwa,IN,25.02,81.32,81.28,28,19,2.08,Northern
+Gunungpeundeuy,ID,-7.32,108.25,72.37,90,99,0.83,Southern
+Kantharawichai,TH,16.33,103.3,80.6,78,96,5.88,Northern
+Serui,ID,-1.88,136.23,83.57,76,93,1.72,Southern
+Novés,ES,40.04,-4.28,67.15,55,72,9.17,Northern
+Abu Simbel,EG,22.35,31.62,75.34,21,69,12.19,Northern
+Bass Coast,AU,-38.49,145.46,56.41,83,5,4.0,Southern
+Großsölk,AT,47.41,13.97,39.0,92,2,2.13,Northern
+Groß Boden,DE,53.75,10.45,44.01,78,92,3.78,Northern
+Chinoz,UZ,40.94,68.77,69.8,49,85,6.93,Northern
+Matzerath,DE,50.15,6.38,51.12,20,100,2.51,Northern
+Pratápolis,BR,-20.74,-46.86,58.37,92,81,1.7,Southern
+Västervik,SE,57.76,16.64,42.64,83,28,8.03,Northern
+Nuakota,ID,-8.83,121.7,77.45,86,44,2.51,Southern
+Langula,DE,51.15,10.42,44.02,62,98,1.34,Northern
+Treviso,IT,45.67,12.24,57.25,87,5,1.07,Northern
+Geretsried,DE,47.86,11.48,43.3,86,10,3.69,Northern
+Montagne,FR,44.93,-0.13,68.2,64,86,6.93,Northern
+Kainuu,FI,64.5,28.5,32.0,96,0,4.7,Northern
+Hofbieber,DE,50.59,9.84,48.74,71,97,2.77,Northern
+Leonovo,RU,55.84,37.64,50.04,93,33,6.71,Northern
+Nacala,MZ,-14.54,40.67,72.46,79,1,9.95,Southern
+Horperath,DE,50.25,6.95,54.46,47,98,2.24,Northern
+Pollok,NZ,-37.13,174.62,65.12,72,66,11.41,Southern
+Géronce,FR,43.23,-0.68,68.0,68,98,3.36,Northern
+Chameyrat,FR,45.23,1.7,60.96,79,100,1.99,Northern
+Ruby,AU,-38.45,145.92,57.65,83,21,4.0,Southern
+Krivina,BG,42.68,23.47,43.3,75,20,4.7,Northern
+Glenwood,US,41.54,-87.6,52.93,41,1,7.16,Northern
+Chénelette,FR,46.17,4.49,56.95,72,81,2.17,Northern
+Munka-Ljungby,SE,56.25,12.97,48.36,81,60,14.99,Northern
+North Kingsville,US,41.91,-80.69,52.79,81,36,10.29,Northern
+Winnebago,US,42.35,-89.18,63.5,22,90,13.87,Northern
+Beuvron-en-Auge,FR,49.19,-0.05,52.99,81,97,3.85,Northern
+Kieve,DE,53.27,12.59,43.93,90,69,4.29,Northern
+Francheleins,FR,46.07,4.81,60.04,70,83,2.64,Northern
+Dreckenach,DE,50.28,7.42,54.61,47,100,2.24,Northern
+Hausjärvi,FI,60.78,24.93,38.8,56,20,10.29,Northern
+New Well,AU,-34.38,139.9,55.0,84,0,5.01,Southern
+Totatiche,MX,21.93,-103.45,82.13,22,30,7.0,Northern
+Bulihan,PH,14.27,121.0,86.68,70,40,6.93,Northern
+Jati,ID,-6.52,106.2,80.69,88,20,3.36,Southern
+Marshall Islands,MH,7.11,171.24,82.4,83,90,9.17,Northern
+Drage,DE,53.42,10.27,41.83,46,95,1.97,Northern
+Milkia,IN,27.69,79.55,78.13,41,21,4.63,Northern
+Kolari,FI,67.33,23.78,30.2,68,2,6.93,Northern
+Vitry-sur-Orne,FR,49.27,6.1,49.98,70,99,2.84,Northern
+Saint Venera,MT,35.89,14.47,61.2,72,0,9.17,Northern
+Schönberger Strand,DE,54.42,10.4,40.98,74,98,3.0,Northern
+Partaloa,ES,37.41,-2.23,59.77,55,36,3.0,Northern
+Eilsdorf,DE,52.0,11.0,47.64,84,83,2.24,Northern
+Palikir,FM,6.92,158.16,78.8,88,90,6.93,Northern
+Oberndorf an der Melk,AT,48.07,15.22,47.62,62,6,1.01,Northern
+Bilma,NE,18.69,12.92,85.23,12,0,7.09,Northern
+Neuf-Brisach,FR,48.02,7.53,55.96,44,100,5.82,Northern
+Lion-sur-Mer,FR,49.3,-0.32,52.95,87,100,2.24,Northern
+Estación de Aljucén,ES,38.94,-6.41,71.29,64,14,8.05,Northern
+Cioranii de Jos,RO,44.82,26.42,48.13,93,52,3.36,Northern
+Sassocorvaro,IT,43.78,12.5,53.02,87,0,2.24,Northern
+Belmiro Braga,BR,-21.95,-43.41,57.0,89,100,4.68,Southern
+Dok Kham Tai,TH,19.16,99.99,78.91,75,80,3.36,Northern
+Razvil'noye,RU,46.24,41.3,54.19,87,100,9.55,Northern
+Tarasovka,RU,57.51,41.47,51.17,95,44,7.16,Northern
+Miami-Dade County,US,25.62,-80.53,81.7,28,20,11.41,Northern
+Selby,US,45.51,-100.03,51.69,43,90,18.34,Northern
+Contla,MX,19.33,-98.17,57.2,82,90,6.93,Northern
+Cachoeira Dourada,BR,-18.52,-49.5,65.75,91,100,4.54,Southern
+Ocho Rios,JM,18.4,-77.1,82.99,84,56,1.01,Northern
+Chesterfield,US,37.38,-77.6,64.69,46,1,8.05,Northern
+Eichenstein,DE,50.38,11.7,45.68,47,77,3.18,Northern
+Riba de Ave,PT,41.4,-8.39,61.57,93,75,3.36,Northern
+Villafranca de los Caballeros,ES,39.45,-3.34,62.01,58,35,7.0,Northern
+Banjarwaru,ID,-7.78,108.38,77.74,88,100,4.94,Southern
+Borox,ES,40.06,-3.72,66.06,55,31,9.17,Northern
+Pejek,ID,-8.65,120.72,68.97,97,71,1.01,Southern
+Le Grand Hameau,FR,49.53,0.09,54.07,66,100,3.36,Northern
+Tianlou,CN,34.25,119.6,65.39,90,100,15.9,Northern
+Caerphilly,GB,51.57,-3.22,54.5,87,83,2.21,Northern
+Miti ya Hunter,KE,0.32,35.18,59.0,100,40,4.7,Northern
+Gokak,IN,16.17,74.83,73.9,74,100,5.82,Northern
+Belsch,DE,53.33,11.2,43.97,91,100,3.44,Northern
+Villamesías,ES,39.25,-5.89,62.33,76,1,3.56,Northern
+Chatturat,TH,15.57,101.85,81.86,79,100,6.51,Northern
+South Meadows Farms,US,34.92,-81.95,67.28,52,1,8.05,Northern
+Lauder,CA,49.39,-100.68,50.0,26,0,7.0,Northern
+Csabrendek,HU,47.01,17.29,49.1,66,0,4.7,Northern
+Eschol,AU,-32.33,148.65,60.8,72,0,5.82,Southern
+Sainte-Bazeille,FR,44.53,0.1,66.61,62,99,5.01,Northern
+Ochla,PL,51.88,15.47,46.13,42,20,5.19,Northern
+Gelendost,TR,38.12,31.02,51.8,93,75,10.29,Northern
+Dudinin,AU,-32.88,117.9,49.08,82,56,10.71,Southern
+Saint-Félix-Lauragais,FR,43.45,1.9,62.6,59,100,24.16,Northern
+Polovinnoye,RU,54.79,65.99,55.92,46,0,4.52,Northern
+Kamen,DE,51.6,7.67,51.8,54,100,4.7,Northern
+Norderfriedrichskoog,DE,54.4,8.9,40.3,87,69,6.85,Northern
+Hyltebruk,SE,57.0,13.24,44.1,87,52,8.05,Northern
+San Francisco del Rincón,MX,21.02,-101.86,77.0,33,75,6.44,Northern
+Santa Ana,PH,15.1,120.77,82.4,83,75,2.24,Northern
+Otutara,PF,-17.77,-149.42,87.8,58,4,11.41,Southern
+Granger,US,41.75,-86.13,58.84,29,1,6.93,Northern
+Yingzhou,CN,18.42,109.85,82.4,83,40,4.47,Northern
+Magenta,IT,45.46,8.88,59.45,63,90,1.99,Northern
+Market Harborough,GB,52.48,-0.92,56.71,71,41,2.24,Northern
+Hallam,AU,-38.02,145.27,58.06,66,1,4.0,Southern
+Ærøskøbing,DK,54.89,10.41,42.73,87,81,3.36,Northern
+Utena,LT,55.5,25.6,34.83,88,61,6.89,Northern
+Moka District,MU,-20.25,57.57,73.71,94,40,1.12,Southern
+Lienden,NL,51.95,5.52,51.96,78,98,3.38,Northern
+Novi Šeher,BA,44.51,18.03,48.24,65,0,5.41,Northern
+Kogel,DE,53.5,10.95,42.37,78,98,3.6,Northern
+Osterwitz,AT,46.86,15.13,48.97,71,0,1.12,Northern
+Barruecopardo,ES,41.07,-6.66,57.67,86,60,6.06,Northern
+Criwik,ID,-6.71,111.5,74.91,91,45,4.79,Southern
+Gorna Malina,BG,42.68,23.7,43.43,75,20,4.7,Northern
+Vellmar,DE,51.36,9.48,46.35,61,100,2.24,Northern
+Oberweid,DE,50.6,10.07,48.45,71,95,2.93,Northern
+Landkreis Gifhorn,DE,52.59,10.63,45.25,70,93,0.51,Northern
+Ibabang Tayuman,PH,13.41,122.52,82.6,76,99,3.69,Northern
+Lurup,DE,53.59,9.88,42.44,87,85,2.24,Northern
+Linares de la Sierra,ES,37.88,-6.62,57.18,75,0,4.56,Northern
+Quetigny,FR,47.32,5.12,53.6,76,95,3.36,Northern
+Mizdah,LY,31.45,12.98,64.85,64,28,16.44,Northern
+Beinasco,IT,45.02,7.58,61.84,54,100,1.01,Northern
+Romanones,ES,40.57,-2.99,65.46,45,53,5.82,Northern
+Mingxing,CN,29.68,109.27,71.01,87,94,2.13,Northern
+Willwerscheid,DE,50.03,6.93,56.03,50,75,1.57,Northern
+Hood,US,32.43,-97.87,83.37,40,40,26.4,Northern
+Saint-Georges-d'Elle,FR,49.15,-0.97,52.43,87,99,2.24,Northern
+Friol,ES,43.03,-7.8,55.0,99,86,1.01,Northern
+Schweiburg,DE,53.4,8.28,45.03,58,83,5.01,Northern
+Herbertingen,DE,48.07,9.43,46.69,70,40,2.24,Northern
+Brestje,HR,45.83,16.08,52.16,81,0,1.12,Northern
+Fuentespreadas,ES,41.33,-5.63,60.8,77,45,2.24,Northern
+Plankstadt,DE,49.39,8.6,54.63,66,88,2.24,Northern
+Billingham,GB,54.61,-1.29,53.2,65,0,5.66,Northern
+Gryon,CH,46.27,7.06,53.42,67,100,3.36,Northern
+Preston,US,42.1,-111.88,55.18,18,1,9.17,Northern
+Šibensko-Kninska Županija,HR,43.83,15.92,55.0,69,0,4.32,Northern
+Dupo,US,38.52,-90.21,68.92,32,75,5.82,Northern
+Boulder,US,40.08,-105.35,60.87,11,1,26.4,Northern
+Daszyna,PL,52.16,19.18,46.67,79,81,7.63,Northern
+Gilching,DE,48.1,11.3,43.11,75,15,3.36,Northern
+Sejalvo,ES,42.3,-7.86,59.49,88,45,1.12,Northern
+San Dionisio,NI,12.76,-85.85,89.47,40,44,14.27,Northern
+Woodmont,US,41.23,-72.99,61.21,31,20,11.41,Northern
+Csanytelek,HU,46.59,20.12,48.4,63,0,5.48,Northern
+Dakingari,NG,11.65,4.06,93.13,28,34,5.95,Northern
+Battle Ground,US,45.78,-122.53,72.46,26,0,5.01,Northern
+Carpin,DE,53.35,13.25,43.97,90,70,4.61,Northern
+Cájar,ES,37.13,-3.57,63.34,48,5,2.91,Northern
+Sulzheim,DE,49.95,10.33,48.54,77,91,1.52,Northern
+Wanzhi,CN,31.15,118.57,74.03,82,0,6.82,Northern
+Woodland,US,38.68,-121.77,90.16,14,40,9.17,Northern
+Chermignon,CH,46.29,7.48,51.89,67,100,3.36,Northern
+Sovetsk,RU,55.08,21.88,36.41,84,0,4.36,Northern
+Ribadesella,ES,43.46,-5.06,59.81,86,88,1.01,Northern
+Krajan Kertonegoro,ID,-8.31,113.62,76.35,91,59,2.04,Southern
+Fuente Obejuna,ES,38.27,-5.42,64.99,70,0,5.01,Northern
+Groß Miltzow,DE,53.53,13.6,44.1,98,60,5.32,Northern
+Baloži,LV,56.85,24.04,35.6,85,39,2.24,Northern
+Sítio Santo Antônio,BR,-23.18,-49.76,57.09,75,9,5.01,Southern
+Aldaia,ES,39.47,-0.46,65.26,72,99,5.82,Northern
+Celico,IT,39.31,16.34,48.99,79,0,1.01,Northern
+Kieta,PG,-6.22,155.63,84.54,66,23,2.89,Southern
+Majura,AU,-35.27,149.2,56.26,76,40,10.29,Southern
+Osburn,US,47.51,-116.0,35.6,80,90,0.4,Northern
+Bogorame,ID,-6.77,111.36,76.57,89,34,4.36,Southern
+Douarnenez,FR,48.1,-4.33,58.42,87,95,5.82,Northern
+San Antonio del Norte,HN,13.88,-87.7,84.07,42,40,9.17,Northern
+Corni,RO,47.65,26.58,45.81,70,26,14.99,Northern
+Hägendorf,CH,47.35,7.82,50.36,71,96,1.57,Northern
+Miyoshi City,JP,35.08,137.07,61.5,63,40,3.36,Northern
+Brand,AT,47.1,9.74,47.48,71,66,2.24,Northern
+Pizzoferrato,IT,41.92,14.24,50.07,76,0,4.7,Northern
+Mladá Boleslav,CZ,50.41,14.9,46.29,74,8,8.99,Northern
+Sondheim vor der Rhön,DE,50.47,10.16,49.64,69,97,1.83,Northern
+Telychka,UA,50.4,30.57,44.49,93,74,8.95,Northern
+Freilingen,DE,50.57,7.83,51.39,65,100,1.59,Northern
+San Zenone al Lambro,IT,45.33,9.36,61.2,67,86,2.24,Northern
+Hurones,ES,42.41,-3.62,63.21,59,69,10.29,Northern
+Acquaviva delle Fonti,IT,40.9,16.84,50.76,93,5,5.82,Northern
+Vollenhove,NL,52.68,5.95,47.8,80,98,1.9,Northern
+Pedreira,BR,-22.74,-46.9,59.0,77,4,8.05,Southern
+Malacampa,PH,15.65,120.41,82.4,83,75,2.24,Northern
+Rāmnagar,IN,29.39,79.13,70.12,50,0,4.76,Northern
+Lirstal,DE,50.25,7.03,54.05,47,98,2.24,Northern
+Apeler,DE,53.51,8.67,44.46,93,72,2.24,Northern
+Hettenhausen,DE,49.33,7.55,49.37,87,1,1.43,Northern
+Calverstown,IE,53.08,-6.8,48.51,87,20,12.75,Northern
+Someshwar,IN,13.5,75.07,76.96,83,100,1.66,Northern
+Al Hazm,YE,16.16,44.78,81.5,31,20,4.7,Northern
+Marcellus,FR,44.48,0.08,66.61,62,100,5.01,Northern
+Crinitz,DE,51.73,13.77,42.71,86,75,1.12,Northern
+Casa de Uceda,ES,40.84,-3.37,64.65,95,53,1.23,Northern
+Kleinerdlingen,DE,48.83,10.48,47.95,70,31,3.47,Northern
+Osterhorn,DE,53.87,9.7,42.03,85,84,3.33,Northern
+Sidonganti,ID,-6.92,111.82,74.88,93,84,4.41,Southern
+Belmonte,PT,37.05,-7.86,66.11,88,75,5.82,Northern
+Yatton,GB,51.97,-2.53,56.01,86,56,1.01,Northern
+Sinagar,ID,-7.58,108.32,73.4,92,100,2.84,Southern
+Parabiago,IT,45.55,8.95,58.84,71,94,3.36,Northern
+Wangbao,CN,40.15,120.13,52.77,95,100,4.99,Northern
+Saint-Marcel-lès-Sauzet,FR,44.6,4.81,61.0,57,88,3.83,Northern
+Scharnhausen,DE,48.71,9.26,52.23,71,59,1.12,Northern
+San Pedro del Valle,ES,41.03,-5.86,60.8,77,41,2.24,Northern
+St Leonards,GB,50.83,-1.85,51.39,90,100,2.19,Northern
+Clyde,US,41.3,-82.98,62.04,17,37,11.01,Northern
+Thiergarten,DE,49.68,6.98,51.46,56,100,0.76,Northern
+El Porvenir,PA,9.57,-78.95,82.49,84,100,11.21,Northern
+Alcázar de San Juan,ES,39.28,-3.26,63.82,58,38,7.0,Northern
+Galeyevka,BY,53.53,29.87,39.09,83,12,7.43,Northern
+Doloon,MN,44.42,105.32,50.97,45,100,7.96,Northern
+Rottorf,DE,52.26,10.84,46.45,84,89,2.15,Northern
+Viga,PH,13.87,124.31,83.14,72,80,3.11,Northern
+Vila Chã de Ourique,PT,39.17,-8.77,60.69,93,64,1.01,Northern
+Shenlin,CN,35.58,105.92,46.0,77,100,16.17,Northern
+Enugu-Ezike,NG,6.98,7.46,75.4,94,90,4.34,Northern
+Lucena City,PH,13.93,121.62,84.0,84,75,1.01,Northern
+Diaotai,CN,34.29,108.69,62.91,87,100,8.95,Northern
+Reana del Rojale,IT,46.14,13.25,55.0,79,0,1.99,Northern
+Pegalajar,ES,37.74,-3.65,70.0,43,22,1.01,Northern
+Lake Telemark,US,40.96,-74.5,60.66,30,33,8.66,Northern
+Tlalpan,MX,19.28,-99.17,60.13,45,75,16.11,Northern
+Großlittgen,DE,50.03,6.8,56.14,50,75,2.26,Northern
+Langerwehe,DE,50.82,6.35,54.27,66,75,1.12,Northern
+Iwanai,JP,42.97,140.51,57.38,38,34,5.26,Northern
+Kattisavan,SE,64.75,18.15,25.56,79,0,2.48,Northern
+Matelândia,BR,-25.24,-53.98,55.4,76,0,4.7,Southern
+Luc-Armau,FR,43.42,-0.07,66.2,77,100,5.82,Northern
+Río Cuarto,AR,-33.13,-64.35,59.0,54,2,10.29,Southern
+Lowden,AU,-33.53,115.97,48.51,98,14,2.77,Southern
+Mühlethurnen,CH,46.81,7.51,50.94,93,100,2.24,Northern
+Kohima,IN,25.67,94.12,57.07,93,13,1.83,Northern
+Geroldswil,CH,47.42,8.41,49.32,71,83,3.36,Northern
+Pueblo Nuevo Viñas,GT,14.22,-90.48,84.85,53,75,11.41,Northern
+Pettigoe,IE,54.55,-7.83,55.4,87,40,10.29,Northern
+Santa Fe,PH,8.34,124.78,81.0,77,4,3.0,Northern
+Rodezno,ES,42.53,-2.85,69.82,49,20,14.99,Northern
+Pfatter,DE,48.97,12.38,47.5,74,33,1.45,Northern
+Itabirito,BR,-20.25,-43.8,58.59,86,98,5.23,Southern
+Iteng,ID,-8.81,120.42,79.07,82,63,5.5,Southern
+Mollens,CH,46.58,6.36,56.84,82,100,1.07,Northern
+Phanom Thuan,TH,14.13,99.7,82.99,74,65,3.33,Northern
+Wanshi,CN,30.1,119.57,74.03,93,11,3.11,Northern
+Princeton,US,25.54,-80.41,79.48,51,1,11.41,Northern
+Corato,IT,41.15,16.41,55.08,76,0,6.93,Northern
+Sébaco,NI,12.85,-86.1,88.23,41,28,12.35,Northern
+La Jacqueminière,FR,48.0,3.08,50.63,78,99,6.93,Northern
+Keljonkangas,FI,62.19,25.71,30.81,86,2,2.24,Northern
+Saint-Front-sur-Nizonne,FR,45.48,0.64,63.57,66,98,1.99,Northern
+Grundy Center,US,42.36,-92.77,61.0,47,100,8.01,Northern
+Murias de Paredes,ES,42.85,-6.19,56.68,59,40,13.87,Northern
+L'Isle-Verte,CA,48.01,-69.34,41.67,72,32,0.63,Northern
+Sannicola,IT,40.09,18.07,55.18,87,5,9.17,Northern
+Piketon,US,39.07,-83.01,64.69,29,75,12.75,Northern
+Città di Castello,IT,43.47,12.23,46.99,83,0,1.01,Northern
+Trussville,US,33.62,-86.61,67.1,30,1,3.36,Northern
+Santiago de la Puebla,ES,40.8,-5.28,60.91,77,65,2.24,Northern
+Megara,GR,38.0,23.35,58.73,50,0,11.27,Northern
+Pendé,FR,50.17,1.58,51.35,62,100,4.7,Northern
+Oberstadtfeld,DE,50.18,6.77,55.8,47,100,2.24,Northern
+Butjadingen,DE,53.55,8.34,44.78,93,68,2.24,Northern
+Kleinbouslar,DE,51.03,6.35,52.45,57,100,0.87,Northern
+Şiran,TR,40.19,39.13,55.4,66,90,6.93,Northern
+Wertingen,DE,48.55,10.68,45.46,75,23,3.36,Northern
+Saint-Molf,FR,47.38,-2.42,57.31,77,99,5.82,Northern
+Emmering,DE,48.18,11.28,45.09,75,17,3.36,Northern
+Albert,AU,-32.35,147.5,63.07,60,0,15.12,Southern
+Caso,ES,43.18,-5.34,55.4,80,59,1.01,Northern
+Sommersdorf,DE,52.17,11.08,46.71,71,83,2.62,Northern
+Borodino,RU,55.91,94.9,38.7,83,75,14.85,Northern
+Arrondissement de Langon,FR,44.5,-0.33,66.33,67,87,1.01,Northern
+Vaires-sur-Marne,FR,48.88,2.64,56.03,50,97,5.82,Northern
+White Hall,US,34.27,-92.09,68.92,40,1,8.05,Northern
+Krynica Morska,PL,54.38,19.44,41.76,93,0,2.24,Northern
+Kuršanec,HR,46.33,16.4,48.51,77,0,1.01,Northern
+Banalo,PH,13.65,121.18,84.0,84,92,1.01,Northern
+Macclesfield,AU,-35.18,138.83,54.84,91,2,1.99,Southern
+Alt Mölln,DE,53.62,10.65,43.07,78,96,3.47,Northern
+Kilembe,UG,0.2,30.0,62.02,77,72,2.3,Northern
+Biskupice Radłowskie,PL,50.12,20.86,47.03,67,44,8.99,Northern
+Ermesinde,PT,41.22,-8.55,61.72,93,75,3.36,Northern
+Holzhausen,DE,48.43,10.82,44.22,75,20,3.36,Northern
+Vurğun,AZ,41.09,45.48,55.02,63,96,6.49,Northern
+Krasnaya Zarya,RU,52.78,37.68,45.72,84,37,4.83,Northern
+Gallatin,US,45.67,-111.2,49.78,53,20,2.84,Northern
+Liebenstein,DE,50.77,10.85,47.17,66,94,5.82,Northern
+Swanport,AU,-35.15,139.3,54.54,91,0,1.99,Southern
+Uyut,RU,55.95,50.29,58.44,78,100,6.89,Northern
+Yarmouth,CA,43.83,-66.12,45.19,81,75,13.87,Northern
+Ballin,DE,53.45,13.43,43.88,90,62,5.06,Northern
+Bamaga,AU,-10.89,142.39,82.4,69,40,16.11,Southern
+Köngen,DE,48.68,9.37,50.99,71,51,1.12,Northern
+Wan Yai,TH,16.72,104.74,81.0,82,69,2.64,Northern
+Nagyoroszi,HU,48.01,19.09,47.37,61,0,2.24,Northern
+Montegiorgio,IT,43.13,13.54,52.97,36,0,3.8,Northern
+‘Azzūn,PS,32.17,35.06,63.23,77,0,1.12,Northern
+el Pla del Penedès,ES,41.42,1.72,60.82,88,100,1.99,Northern
+Taourirt,MA,34.41,-2.9,66.2,72,75,4.7,Northern
+Sanad,RS,45.98,20.11,46.72,80,0,5.79,Northern
+Ain Fakroun,DZ,35.97,6.88,66.78,68,86,6.93,Northern
+Elmore,AU,-36.5,144.6,53.96,88,0,5.73,Southern
+Buckley,US,47.16,-122.03,68.5,40,0,1.99,Northern
+Dimbokro,CI,6.65,-4.7,76.69,96,68,4.25,Northern
+Ickenham,GB,51.56,-0.44,56.28,58,100,3.36,Northern
+Abryudkovo,RU,55.38,39.15,51.8,76,44,6.71,Northern
+Cibitung,ID,-7.12,107.13,67.12,97,67,1.16,Southern
+Glaine-Montaigut,FR,45.76,3.39,60.8,77,100,3.36,Northern
+Demyansk,RU,57.64,32.47,40.51,87,100,5.82,Northern
+Yeola,IN,20.03,74.48,75.54,44,0,13.49,Northern
+Rippersroda,DE,50.77,10.87,47.21,66,93,5.82,Northern
+Sareptskiy Perekat,RU,48.57,44.6,55.2,100,90,2.24,Northern
+Plovdiv,BG,42.15,24.75,54.7,44,75,17.22,Northern
+Thermopolis,US,43.65,-108.21,47.52,43,90,33.33,Northern
+Grão Mogol,BR,-16.56,-42.89,67.12,92,89,1.79,Southern
+Notre-Dame-du-Touchet,FR,48.58,-0.96,54.52,76,100,3.36,Northern
+Kara-Kulja,KG,40.63,73.59,55.4,76,75,4.47,Northern
+Xinlong,CN,25.2,114.6,77.99,85,18,5.95,Northern
+Blignicourt,FR,48.46,4.53,50.23,81,95,1.12,Northern
+Garbayuela,ES,39.05,-5.0,59.4,82,27,4.43,Northern
+Valla,SE,63.55,13.8,37.4,69,70,5.82,Northern
+Waarschoot,BE,51.15,3.61,50.41,66,100,2.84,Northern
+Freneuse,FR,49.05,1.6,53.15,62,98,3.36,Northern
+Placitas,US,35.31,-106.42,81.34,8,57,17.0,Northern
+Lakewood,AU,-30.8,121.53,46.4,81,75,9.17,Southern
+Kawitan,ID,-7.51,108.27,72.88,91,99,2.8,Southern
+Yabutani,JP,34.8,134.47,57.09,62,75,3.36,Northern
+Québec,CA,46.81,-71.21,56.14,24,20,10.29,Northern
+Sonsbeck,DE,51.62,6.37,52.11,60,100,3.0,Northern
+Lindenfels,DE,49.69,8.78,53.71,49,98,2.73,Northern
+Canguaretama,BR,-6.38,-35.13,75.94,87,18,7.38,Southern
+Sudley,US,38.79,-77.5,65.53,22,40,12.75,Northern
+Bacqueville-en-Caux,FR,49.79,1.0,55.0,63,100,5.01,Northern
+Verchères,CA,45.77,-73.36,55.65,39,79,5.99,Northern
+Fitzen,DE,53.49,10.65,41.95,96,97,3.0,Northern
+Cabasse,FR,43.43,6.22,54.63,71,96,2.06,Northern
+Lignan-de-Bazas,FR,44.43,-0.28,66.33,73,92,7.18,Northern
+Jever,DE,53.58,7.9,39.2,86,75,2.24,Northern
+San Giovanni al Natisone,IT,45.98,13.4,53.04,79,0,1.99,Northern
+Saint-Sever,FR,43.76,-0.57,66.74,72,99,4.7,Northern
+Glasco,US,42.04,-73.95,60.6,34,99,9.75,Northern
+Haizhou,CN,34.58,119.13,64.18,92,100,11.65,Northern
+Borallon,AU,-27.53,152.68,63.52,82,11,1.12,Southern
+Jorcas,ES,40.54,-0.75,57.47,76,97,6.93,Northern
+Pozos de Hinojo,ES,40.91,-6.41,57.16,88,71,5.53,Northern
+Cadalso,ES,40.24,-6.54,60.98,81,77,1.83,Northern
+Roddenagh,IE,52.86,-6.37,45.0,94,69,2.68,Northern
+Toledo,CO,7.31,-72.48,95.0,36,20,13.87,Northern
+Tiantang,CN,34.92,107.55,53.76,78,100,10.89,Northern
+Medinilla,ES,40.44,-5.62,60.8,77,53,2.24,Northern
+Malaya Vishera,RU,58.85,32.22,35.62,85,77,5.57,Northern
+Twin Grove,US,40.49,-89.08,63.86,36,40,18.34,Northern
+Gongli,CN,34.83,109.14,60.8,87,100,8.95,Northern
+Shanshi,CN,27.29,114.06,78.31,84,0,2.84,Northern
+Alappuzha,IN,9.49,76.33,81.45,86,82,4.12,Northern
+Kavala,GR,40.94,24.4,51.3,81,6,1.99,Northern
+Gata,ES,40.24,-6.6,57.34,89,75,2.15,Northern
+Başçiftlik,TR,40.55,37.17,42.6,100,100,3.0,Northern
+Burgstall,IT,46.61,11.19,45.7,70,5,3.36,Northern
+Thon Buri,TH,13.72,100.49,86.18,83,20,8.05,Northern
+Znamenka,RU,52.42,41.43,55.78,79,100,5.97,Northern
+Asia,PH,9.55,122.52,83.61,73,78,3.91,Northern
+Aldridge,GB,52.61,-1.92,55.02,64,18,4.76,Northern
+Oppido Mamertina,IT,38.29,15.98,59.95,76,0,5.82,Northern
+Ambel,ES,41.79,-1.62,67.33,59,99,13.87,Northern
+Corinto,BR,-18.38,-44.46,66.76,91,99,1.34,Southern
+Departamento del Huila,CO,2.5,-75.75,71.06,78,77,1.3,Northern
+Jurançon,FR,43.29,-0.39,66.43,68,100,3.36,Northern
+Cropalati,IT,39.52,16.73,51.78,79,0,1.01,Northern
+Taquaritinga,BR,-21.41,-48.5,59.63,89,53,8.32,Southern
+Skoki,PL,52.67,17.16,43.99,87,2,2.24,Northern
+Newark on Trent,GB,53.07,-0.82,54.97,64,9,1.01,Northern
+Niedertaufkirchen,DE,48.33,12.55,46.99,95,1,2.66,Northern
+Wattrelos,FR,50.7,3.22,52.43,54,100,8.05,Northern
+Le Buisson-de-Cadouin,FR,44.85,0.92,64.35,63,100,5.82,Northern
+Matchino,RU,55.25,37.79,46.89,70,20,6.71,Northern
+Cihonje,ID,-7.19,108.19,70.86,90,97,1.28,Southern
+Qiryat Arba‘,PS,31.53,35.12,63.0,62,0,0.89,Northern
+San Juan del Cesar,CO,10.77,-73.0,85.26,65,83,5.06,Northern
+Orleans,US,43.25,-78.23,44.33,73,76,1.01,Northern
+Radnevo,BG,42.3,25.93,55.4,58,40,9.17,Northern
+Leciñena,ES,41.86,-0.65,69.33,41,100,12.37,Northern
+Niami Kalag,PK,25.85,63.46,74.75,62,57,0.76,Northern
+Torralba de los Frailes,ES,41.04,-1.66,58.35,72,94,4.7,Northern
+Gol’yanovo,RU,55.82,37.82,51.69,93,39,6.71,Northern
+Andelat,FR,45.06,3.06,57.2,71,100,6.93,Northern
+Tetiiv,UA,49.38,29.66,42.42,90,80,11.1,Northern
+Compton,AU,-37.77,140.68,51.8,100,90,10.29,Southern
+Kijingan,ID,-6.75,111.12,76.84,89,41,2.93,Southern
+Capital Region,DK,55.83,12.33,47.26,90,76,13.0,Northern
+Phulpur,IN,25.55,82.1,82.51,30,0,5.99,Northern
+Rock Hill,US,34.92,-81.03,65.86,32,1,10.29,Northern
+Riva,US,38.95,-76.58,65.5,29,1,9.17,Northern
+Villafruela,ES,41.92,-3.91,62.58,59,86,10.29,Northern
+Varshavka,RU,54.38,56.11,48.2,70,16,2.24,Northern
+Azmannsdorf,DE,50.98,11.1,49.46,73,77,5.82,Northern
+Neuenkirchen,DE,52.24,7.37,46.99,61,99,1.12,Northern
+Philo,US,40.01,-88.16,64.71,36,20,14.99,Northern
+Lödderitz,DE,51.88,11.95,46.35,76,63,3.74,Northern
+Saint-Martin-des-Olmes,FR,45.53,3.8,59.86,62,97,5.82,Northern
+Baarleveld,BE,51.05,3.61,49.55,96,100,2.91,Northern
+Saint-Priest-en-Jarez,FR,45.47,4.37,59.47,62,98,5.82,Northern
+Michałowice,PL,52.17,20.89,50.22,53,31,6.93,Northern
+Clarendon,US,34.94,-100.89,92.55,19,87,8.61,Northern
+Tunoshna,RU,57.55,40.13,53.6,100,99,4.47,Northern
+Ondarroa,ES,43.32,-2.42,68.09,88,100,3.36,Northern
+Bad Kohlgrub,DE,47.67,11.05,43.05,70,24,2.24,Northern
+Mayskiy,RU,47.69,40.1,55.4,76,40,6.71,Northern
+Pestovo,RU,58.59,35.8,43.07,94,100,8.32,Northern
+Merlin,US,42.52,-123.42,78.3,15,1,3.36,Northern
+George Enescu,RO,48.03,26.48,46.96,70,13,14.99,Northern
+Zhilino,RU,56.07,37.25,50.0,93,50,6.71,Northern
+Gmina Grabica,PL,51.48,19.53,45.68,78,58,4.0,Northern
+Unterwollanig,AT,46.64,13.83,48.06,66,0,2.24,Northern
+Bezirk Thierstein,CH,47.38,7.55,52.3,69,100,1.01,Northern
+Opopeo,MX,19.4,-101.6,71.01,52,74,5.01,Northern
+Sefferweich,DE,50.07,6.52,52.43,50,75,3.24,Northern
+Shelukhino,RU,55.2,38.86,50.36,76,50,6.71,Northern
+Balduinstein,DE,50.35,7.97,50.34,64,100,0.31,Northern
+Arija,ES,42.99,-3.94,63.93,100,82,4.72,Northern
+Prösen,DE,51.43,13.5,44.04,81,28,3.36,Northern
+Mamedkala,RU,42.17,48.12,58.37,87,100,2.93,Northern
+Ban Chun Luang,TH,19.3,100.17,77.34,82,86,3.29,Northern
+Canencia,ES,40.91,-3.74,64.35,44,87,5.95,Northern
+Fruges,FR,50.52,2.13,53.82,62,99,4.7,Northern
+Ruhpolding,DE,47.77,12.65,44.13,75,0,5.82,Northern
+Sukawangi,ID,-7.47,107.94,66.79,99,89,2.42,Southern
+Tribuswinkel,AT,48.01,16.27,50.32,61,0,3.0,Northern
+Kloposawit Krajan,ID,-8.15,113.08,74.1,86,65,0.31,Southern
+Norderheistedt,DE,54.25,9.15,39.85,86,20,2.24,Northern
+Jeziorna Oborska,PL,52.08,21.12,51.62,53,27,6.93,Northern
+Boddin,DE,53.94,12.65,44.6,87,75,1.12,Northern
+Ramygala,LT,55.52,24.3,41.0,60,22,2.24,Northern
+Delok,ID,-6.71,111.24,77.43,88,37,5.55,Southern
+Pisang,ID,-8.47,118.76,78.8,88,30,3.62,Southern
+Tanout,NE,14.97,8.89,82.94,14,0,11.07,Northern
+Moundville,US,33.0,-87.63,71.53,30,1,2.82,Northern
+Narathiwat,TH,6.33,101.75,78.37,94,20,2.24,Northern
+Zliv,CZ,49.07,14.37,46.0,63,3,2.39,Northern
+Hornstorf,DE,53.92,11.53,44.35,87,100,3.0,Northern
+Adelsdorf,DE,49.48,10.68,49.14,50,1,4.16,Northern
+Las Lomas,US,26.36,-98.78,90.66,57,61,3.0,Northern
+Bustillo de Chaves,ES,42.13,-5.09,60.96,81,82,1.99,Northern
+Bredene,BE,51.23,2.98,50.29,57,100,3.36,Northern
+Dalkola,IN,25.85,87.85,78.26,45,8,6.17,Northern
+Veríssimo,BR,-19.66,-48.31,62.89,91,98,7.94,Southern
+Autenhausen,DE,50.23,10.78,46.33,68,97,1.01,Northern
+Capim Branco,BR,-19.55,-44.12,64.4,93,75,8.05,Southern
+Edithburgh,AU,-35.1,137.73,59.99,71,0,14.16,Southern
+Finisterra,ES,42.9,-9.26,58.59,75,88,5.01,Northern
+Pokój,PL,50.9,17.84,39.99,100,0,4.43,Northern
+Tamames,ES,40.66,-6.11,60.8,77,70,2.24,Northern
+Nova Gorica,SI,45.96,13.65,52.63,80,1,3.06,Northern
+Liuzhi,CN,30.88,114.49,68.0,100,75,13.42,Northern
+Peñarroya-Pueblonuevo,ES,38.31,-5.24,65.43,59,0,2.24,Northern
+Neuville-Saint-Vaast,FR,50.35,2.77,52.66,70,99,1.01,Northern
+Albany,US,42.6,-73.97,60.01,35,75,1.99,Northern
+Simmersfeld,DE,48.62,8.52,53.98,76,83,4.09,Northern
